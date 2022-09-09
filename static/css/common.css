@@ -1,0 +1,41 @@
+.flex {
+  display: flex;
+}
+
+.flex-1 {
+  flex: 1;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.lg-container {
+  width: 100%;
+  padding-bottom: 1.5rem;
+}
+
+.main-container {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.none {
+  display: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.relative {
+  position: relative;
+}
+
+.common-shadow {
+  box-shadow: 1px 3px 6px rgb(122 122 122 / 0.2);
+}
